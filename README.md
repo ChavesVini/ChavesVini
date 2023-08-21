@@ -22,5 +22,5 @@ I'm qualified technician on Administration and studying Database at FATEC.
 # 📫 How to reach me?
 | Social Media | Link |
 | :-----: | :-----: |
-| On LinkedIn | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://github.com/ChavesVini) |
+| On LinkedIn | [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vinícius-chaves-197353244/) |
 | On GitHub | [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ChavesVini) |
