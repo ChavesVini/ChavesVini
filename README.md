@@ -8,12 +8,8 @@ I'm qualified technician on Administration and studying Database at FATEC.
 |Python | [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">](https://www.python.org) |
 |Java | [<img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java">](https://www.java.com/pt-BR/) |
 
-
-# 👩‍💻 IDE
-|Name|Link| 
-|----|-----|
-| VSCode | [<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">](https://code.visualstudio.com) |
-
+# 👩‍💻 Percentage Usage Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChavesVini&layout=compact)
 
 # 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ChavesVini&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=22420543&theme=dark" height="250"></a>
