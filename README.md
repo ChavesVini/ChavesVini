@@ -2,15 +2,15 @@
 I'm Vinícius Chaves! Currently I'm learning "Java", to improve my programming skills. <br>
 I'm qualified technician on Administration and studying Database at FATEC.
 
-# Languages
-|Name|Logo| 
-|----|-----|
+# 👩‍💻 Languages
+|Name|Link| 
+|:----:|:-----:|
 |Python | [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">](https://www.python.org) |
 |Java | [<img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java">](https://www.java.com/pt-BR/) |
 
 
-# IDE
-|Name|Logo| 
+#👩‍💻 IDE
+|Name|Link| 
 |----|-----|
 | VSCode | [<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">](https://code.visualstudio.com) |
 
