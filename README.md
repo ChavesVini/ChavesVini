@@ -1,6 +1,6 @@
 # 👋 Hello 
 I'm Vinícius Chaves! Currently I'm learning "Java", to improve my programming skills. <br>
-I'm qualified technician on Administration and studying Database at FATEC.
+I'm qualified technician on Administration, studying Database at FATEC and working on BTG Pactual as Intern of IT CRM.
 
 # 👩‍💻 Languages
 |Name|Link| 
