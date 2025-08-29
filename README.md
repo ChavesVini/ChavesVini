@@ -1,6 +1,8 @@
 # 👋 Hello 
-I'm Vinícius Chaves! Currently I'm learning "Java", to improve my programming skills. <br>
-I'm qualified technician on Administration, studying Database at FATEC and working on BTG Pactual as Intern of IT CRM.
+I'm Vinícius Chaves! Currently, I'm learning Java to improve my programming skills and deepen my understanding of backend development. <br>
+In addition, I'm also studying MongoDB to enhance my knowledge of NoSQL databases and Pandas to work more efficiently with data analysis and manipulation in Python. <br>
+My goal is to keep improving my skills as a developer and gain a stronger foundation in both software development and data handling. <br>
+I'm qualified technician on Administration and studying Database at FATEC.
 
 # 👩‍💻 Languages
 |Name|Link| 
