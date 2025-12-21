@@ -1,8 +1,7 @@
 # 👋 Hello 
-I'm Vinícius Chaves! Currently, I'm learning Java to improve my programming skills and deepen my understanding of backend development. <br>
-In addition, I'm also studying MongoDB to enhance my knowledge of NoSQL databases and Pandas to work more efficiently with data analysis and manipulation in Python. <br>
-My goal is to keep improving my skills as a developer and gain a stronger foundation in both software development and data handling. <br>
-I'm qualified technician on Administration and studying Database at FATEC.
+I'm Vinícius Chaves, a backend-oriented developer with a strong interest in data handling and databases. <br>
+I'm currently improving my skills in Java for backend development, while deepening my knowledge of MongoDB (NoSQL databases) and Pandas for data analysis and manipulation in Python. <br>
+I hold a technical degree in Administration and have completed a degree in Database Systems at FATEC (diploma pending).
 
 # 💻 Tech Stack
 
@@ -53,25 +52,29 @@ I'm qualified technician on Administration and studying Database at FATEC.
 ## 🛠️ Tools & Platforms
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="github actions logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" height="45" alt="jira logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=maven" height="60" alt="maven logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=maven" height="60" alt="maven logo"  />
   <img width="12" />
 </div>
 
