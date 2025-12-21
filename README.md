@@ -10,12 +10,25 @@ I'm qualified technician on Administration and studying Database at FATEC.
 |Python | [<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">](https://www.python.org) |
 |Java | [<img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java">](https://www.java.com/pt-BR/) |
 
-# 👩‍💻 Percentage Usage Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChavesVini&layout=compact)
-
 # 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=ChavesVini&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-stackoverflow.vercel.app/?userID=22420543&theme=dark" height="250"></a>
-|--|--|
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=ChavesVini&theme=radical"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ChavesVini&show_icons=true&theme=radical"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavesVini&theme=radical&layout=compact"
+    height="180"
+  />
+</p>
 
 # 📫 How to reach me?
 | Social Media | Link |
