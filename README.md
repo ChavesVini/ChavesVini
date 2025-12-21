@@ -88,18 +88,18 @@ I'm qualified technician on Administration and studying Database at FATEC.
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=ChavesVini&theme=radical"
-    height="180"
+    height="140"
   />
   <img
     src="https://github-readme-stats.vercel.app/api?username=ChavesVini&show_icons=true&theme=radical"
-    height="180"
+    height="140"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavesVini&theme=radical&layout=compact"
-    height="180"
+    height="140"
   />
 </p>
 
