@@ -97,7 +97,7 @@ I hold a technical degree in Administration and have completed a degree in Datab
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavesVini&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChavesVini&theme=radical&layout=compact&langs_count=4"
     height="160"
   />
 </p>
