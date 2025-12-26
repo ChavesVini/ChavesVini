@@ -1,7 +1,7 @@
 # 👋 Hello 
 I'm Vinícius Chaves, a backend-oriented developer with a strong interest in data handling and databases. <br>
-I'm currently improving my skills in Java for backend development, while deepening my knowledge of MongoDB (NoSQL databases) and Pandas for data analysis and manipulation in Python. <br>
-I hold a technical degree in Administration and have completed a degree in Database Systems at FATEC (diploma pending).
+I'm currently improving my skills in TypeScript and JavaScript for frontend development, while deepening my knowledge of MongoDB (NoSQL databases) and Pandas for data analysis and manipulation in Python. <br>
+I hold a technical degree in Administration and have completed a degree in Database at FATEC (diploma pending).
 
 # 💻 Tech Stack
 
