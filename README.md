@@ -41,6 +41,8 @@ I hold a technical degree in Administration and have completed a degree in Datab
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vuejs" height="60" alt="vuejs logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" height="45" alt="pandas logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" height="45" alt="spark logo"  />
