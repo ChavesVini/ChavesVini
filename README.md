@@ -30,7 +30,7 @@ Highlights
 - Relational data modeling with Oracle database
 - Backend business logic for inventory and stock operations
 
-**Role:** Full Stack Developer  
+**Role:** Full Stack Developer <br>
 **Tech:** Java · Quarkus · Oracle · REST APIs
 
 🔗 https://github.com/ChavesVini/autoflex
@@ -45,7 +45,7 @@ Highlights
 - Machine learning model experimentation and evaluation
 - Visualization of analytical results through a web interface
 
-**Role:** Scrum Master & Full Stack Developer
+**Role:** Scrum Master & Full Stack Developer <br>
 **Tech:** Python · Machine Learning · Vue.js
 
 🔗 https://github.com/new-ge/LuminIA
@@ -60,7 +60,7 @@ Highlights
 - Tracking of device movement across geographic coordinates
 - Integration between backend services and map-based UI
 
-**Role:** Front End Developer
+**Role:** Front End Developer <br>
 **Tech:** Vue.js · Oracle · Java 
 
 🔗 https://github.com/manolito-fatec/geo-iot-2024-1
@@ -75,7 +75,7 @@ Highlights
 - Interactive dashboard for project performance analysis
 - Visualization of KPIs derived from Taiga data
 
-**Role:** Full Stack Developer
+**Role:** Full Stack Developer <br>
 **Tech:** Vue.js · PostgreSQL · Java
 
 🔗 https://github.com/new-ge/VISION
