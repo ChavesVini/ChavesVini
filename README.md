@@ -16,8 +16,6 @@ I hold a technical degree in Administration and have completed a degree in Datab
 
 A visual query builder that allows users to explore datasets and generate SQL queries through an interactive interface. The system converts user-defined transformations into structured queries, simplifying dataset exploration for users who are not familiar with SQL.
 
-**Tech:** TypeScript · React 
-
 🔗 https://github.com/ChavesVini/sql-generator
 
 ## ⚙️ Autoflex
