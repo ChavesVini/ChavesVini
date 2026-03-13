@@ -1,7 +1,84 @@
 # 👋 Hello 
-I'm Vinícius Chaves, a backend-oriented developer with a strong interest in data handling and databases. <br>
+I'm Vinicius Chaves, a backend and data-oriented developer focused on building systems that process, transform and analyze datasets. My main interests include data processing pipelines, query engines and analytics platforms. <br>
 I'm currently improving my skills in TypeScript and JavaScript for frontend development, while deepening my knowledge of MongoDB (NoSQL databases) and Pandas for data analysis and manipulation in Python. <br>
 I hold a technical degree in Administration and have completed a degree in Database at FATEC (diploma pending).
+
+**Core Interests**
+
+• Backend Development  
+• Data Processing Systems  
+• Databases and Query Engines  
+• Data Analytics Platforms
+
+# 🚀 Featured Projects
+
+## 🧠 SQL Generator (In Development)
+
+A visual query builder that allows users to explore datasets and generate SQL queries through an interactive interface. The system converts user-defined transformations into structured queries, simplifying dataset exploration for users who are not familiar with SQL.
+
+**Tech:** TypeScript · React 
+
+🔗 https://github.com/ChavesVini/sql-generator
+
+## ⚙️ Autoflex
+
+Full stack technical challenge developed as part of a company assessment. The system manages products and raw materials, implementing REST APIs, relational data modeling and business logic for inventory management.
+
+Highlights
+
+- REST API for product and raw material management
+- Relational data modeling with Oracle database
+- Backend business logic for inventory and stock operations
+
+**Role:** Full Stack Developer  
+**Tech:** Java · Quarkus · Oracle · REST APIs
+
+🔗 https://github.com/ChavesVini/autoflex
+
+## 🤖 LuminIA
+
+Machine learning–focused academic project aimed at intelligent data processing and analysis.
+
+Highlights
+
+- Data preprocessing and dataset analysis pipeline
+- Machine learning model experimentation and evaluation
+- Visualization of analytical results through a web interface
+
+**Role:** Scrum Master & Full Stack Developer
+**Tech:** Python · Machine Learning · Vue.js
+
+🔗 https://github.com/new-ge/LuminIA
+
+## 🌍 GEO-IOT
+
+Geospatial data visualization platform designed to track and analyze IoT device movement across geographic environments.
+
+Highlights
+
+- Visualization of geospatial data on interactive maps
+- Tracking of device movement across geographic coordinates
+- Integration between backend services and map-based UI
+
+**Role:** Front End Developer
+**Tech:** Vue.js · Oracle · Java 
+
+🔗 https://github.com/manolito-fatec/geo-iot-2024-1
+
+## 📊 VISION
+
+Analytics dashboard that transforms project management data from Taiga into visual metrics and performance insights. The system processes project data and presents KPIs through an interactive dashboard for project analysis.
+
+Highlights
+
+- Data processing pipeline for project management metrics
+- Interactive dashboard for project performance analysis
+- Visualization of KPIs derived from Taiga data
+
+**Role:** Full Stack Developer
+**Tech:** Vue.js · PostgreSQL · Java
+
+🔗 https://github.com/new-ge/VISION
 
 # 💻 Tech Stack
 
