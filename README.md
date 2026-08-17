@@ -1,7 +1,8 @@
 # 👋 Hello 
-I'm Vinicius Chaves, a backend and data-oriented developer focused on building systems that process, transform and analyze datasets. My main interests include data processing pipelines, query engines and analytics platforms. <br>
+
+I'm Vinicius Chaves, a backend and data-oriented developer currently working at Maitha Tech, allocated to Serasa Experian as a Junior Data Engineer. I focus on building systems that process, transform, and analyze data at scale. My main interests include data processing pipelines, query engines, and analytics platforms. <br>
 I'm currently improving my skills in TypeScript and JavaScript for frontend development, while deepening my knowledge of MongoDB (NoSQL databases) and Pandas for data analysis and manipulation in Python. <br>
-I hold a technical degree in Administration and have completed a degree in Database at FATEC (diploma pending).
+I hold a technical degree in Administration and have completed a degree in Database at FATEC.
 
 **Core Interests**
 
